@@ -202,6 +202,12 @@ cython_debug/
 .cursorindexingignore
 
 # Marimo
+
+# Project
+data/
+logs/
+cred.py
+
 marimo/_static/
 marimo/_lsp/
 __marimo__/
